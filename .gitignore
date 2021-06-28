@@ -1,4 +1,5 @@
-*/Archives
+*/Archives/*.pdf
+*/Archives/*.exe
 /intensivao-env
 .vscode
 *.ipynb
