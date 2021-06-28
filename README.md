@@ -9,11 +9,14 @@
 
 - [Instalation](#instalation)
 - [Projects Description](#project-description)
-- [My Annotations](link das anotações)
+- [My Annotations - Day 1](https://github.com/joseaugusto0/Intensivo_Python_Hashtag/tree/main/1-System_automation/Annotations)
+- [My Annotations - Day 2](https://github.com/joseaugusto0/Intensivo_Python_Hashtag/tree/main/2-Data_Analysis/Annotations)
+- [My Annotations - Day 3](https://github.com/joseaugusto0/Intensivo_Python_Hashtag/tree/main/3-Data_Science_and_Machine_Learning/Annotations)
+- [My Annotations - Day 4](https://github.com/joseaugusto0/Intensivo_Python_Hashtag/tree/main/4-Web_Scraping/Annotations)
 
 
 ## Instalation
--   Clone all the repository quoted in [Intensivo_Python_Hashtag](link repositorio)
+-   Clone all the repository quoted in [Intensivo_Python_Hashtag](https://github.com/joseaugusto0/Intensivo_Python_Hashtag)
 -   You can set different environments for the different projects proposed in this repository
     -   In all project folders, has a requirements.txt, so you can set your environment, and install all dependencies that you need with this command:
     ```
